@@ -1,0 +1,62 @@
+{
+  "name": "Greysi Lucero",
+  "lastname": "Rivera Scharff",
+  "role": "Estudiante de Ingeniería de Software",
+  "tagline": "Construyo aplicaciones claras, útiles y bien pensadas, desde la idea hasta el código.",
+  "semester": 5,
+  "totalSemesters": 10,
+  "institution": "[Nombre de tu universidad o instituto]",
+  "city": "[Tu ciudad], Perú",
+  "english": "Inglés [nivel]",
+  "availability": "Prácticas preprofesionales",
+  "aboutLead": "Curso el quinto semestre de Ingeniería de Software y busco mi primera experiencia profesional en desarrollo.",
+  "about": "Disfruto entender un problema antes de escribir código: escuchar a quien lo usará, ordenar los requisitos y construir algo sencillo de usar.\nFuera de clases me interesa [tu interés].",
+  "skills": "Lenguajes: Java, Python, JavaScript, SQL\nWeb y herramientas: HTML y CSS, React, Git, Figma\nDatos: MySQL, Modelado de datos, Excel\nPersonales: Trabajo en equipo, Comunicación, Organización",
+  "projects": [
+    {
+      "title": "Sistema de gestión de biblioteca",
+      "desc": "Registro de libros, préstamos y devoluciones, con reportes de los más solicitados.",
+      "tags": "Java, MySQL",
+      "link": ""
+    },
+    {
+      "title": "Tienda web responsiva",
+      "desc": "Catálogo con carrito de compras y filtros por categoría, adaptado a celular y escritorio.",
+      "tags": "HTML, CSS, JavaScript",
+      "link": ""
+    },
+    {
+      "title": "Análisis de datos académicos",
+      "desc": "Limpieza y visualización de notas para detectar los temas con mayor dificultad.",
+      "tags": "Python, Pandas",
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "when": "En curso",
+      "title": "Ingeniería de Software, 5.º semestre",
+      "place": "[Nombre de tu universidad o instituto]"
+    },
+    {
+      "when": "[Año]",
+      "title": "Curso o certificación destacada",
+      "place": "Scrum, inglés, Google, Cisco u Oracle"
+    },
+    {
+      "when": "[Año]",
+      "title": "Educación secundaria",
+      "place": "[Nombre del colegio]"
+    }
+  ],
+  "email": "correo@ejemplo.com",
+  "linkedin": "",
+  "github": "",
+  "cv": "",
+  "accent": "#B8467A",
+  "photo": "",
+  "auth": {
+    "salt": "c8089055065c7ff7",
+    "hash": "8061ad0dbb801ca2e4711689253298ab0af6b2eeb20cc8a0197ff50843438fc8"
+  }
+}
